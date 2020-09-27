@@ -3,7 +3,7 @@ Scenery EDDS for MSFS 2020
 
 This is a very basic scenery for EDDS - Stuttgart Airport for the Microsoft Flight Simulator (MSFS) 2020.
 
-Installation
+Installation:
 Download "nervervdesign-edds.vXXX.zip and extract it to your community folder.
 
 Versions:
