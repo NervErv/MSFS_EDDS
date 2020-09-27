@@ -25,3 +25,6 @@ Missing:
   
 Known issues:
   - some holes west of Gate 9
+  - progressive taxiing not possible
+  - AI ATC not recognizing taxiways
+  
