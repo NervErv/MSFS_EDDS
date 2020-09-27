@@ -14,6 +14,8 @@ Basic scenery includes:
   - ILS
   
 Missing:
+  - ground textures
+  - taxi signs
   - some ramps and parkings
   - approach and departure procedures
   - some lighting
